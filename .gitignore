@@ -18,3 +18,4 @@ data/longitudinal.csv
 longitudinal.csv
 .Rhistory
 .RData
+*.csv
